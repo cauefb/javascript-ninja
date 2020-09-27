@@ -11,7 +11,7 @@
 ?
 
 // Atribua à variável `soma` todo o valor dela, multiplicando por 3, usando o operador de multiplicação abreviado.
-?
+
 
 // Qual é o valor da variável `soma` até aqui?
 ?
