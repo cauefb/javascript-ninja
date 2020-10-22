@@ -93,7 +93,7 @@ usando a frase:
 */
 // ?
 
-var bookName = 'o castrelo';
+var bookName = 'conto da aia';
 console.log('O livro o ' +bookName+ 'tem '+ book("o castrelo").quantidadePaginas+' páginas')
 
 /*
@@ -102,7 +102,7 @@ a frase:
 "O autor do livro [NOME_DO_LIVRO] é [AUTOR]."
 */
 // ?
-console.log('O livro' +bookName+ 'tem é '+ book("o castrelo").autor)
+console.log('O livro' +bookName+ ' é '+ book("o castrelo").autor)
 /*
 Ainda com a função acima, imprima o nome da editora de um livro qualquer, usando
 a frase:
@@ -110,3 +110,5 @@ a frase:
 */
 // ?
 console.log('O livro ' +bookName+ 'foi publicado pela editora  '+ book("o castrelo").editora)
+
+
