@@ -1,1 +1,1 @@
-Reposito do curso javascript ninja
+Repositório do curso javascript ninja
